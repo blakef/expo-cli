@@ -79,7 +79,7 @@
     "@expo/xcpretty": "^4.1.0",
     "better-opn": "^3.0.1",
     "boxen": "^5.0.1",
-    "bplist-parser": "0.2.0",
+    "bplist-parser": "^0.3.2",
     "cacache": "^15.3.0",
     "chalk": "^4.0.0",
     "cli-table3": "^0.6.0",

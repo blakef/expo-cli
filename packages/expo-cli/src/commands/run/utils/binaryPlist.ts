@@ -1,5 +1,4 @@
 import plist from '@expo/plist';
-// @ts-ignore
 import binaryPlist from 'bplist-parser';
 import fs from 'fs-extra';
 

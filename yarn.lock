@@ -5547,7 +5547,7 @@ better-opn@^3.0.1:
   dependencies:
     open "^8.0.4"
 
-big-integer@1.6.x, big-integer@^1.6.44:
+big-integer@1.6.x:
   version "1.6.48"
   resolved "https://registry.yarnpkg.com/big-integer/-/big-integer-1.6.48.tgz#8fd88bd1632cba4a1c8c3e3d7159f08bb95b4b9e"
   integrity sha512-j51egjPa7/i+RdiRuJbPdJ2FIUYYPhvYLjzoYbcMMm62ooO6F94fETG4MTs46zPAF9Brs04OajboA/qTGuz78w==
@@ -5660,13 +5660,6 @@ bplist-creator@0.1.0:
   dependencies:
     stream-buffers "2.2.x"
 
-bplist-parser@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/bplist-parser/-/bplist-parser-0.2.0.tgz#43a9d183e5bf9d545200ceac3e712f79ebbe8d0e"
-  integrity sha512-z0M+byMThzQmD9NILRniCUXYsYpjwnlO8N5uCFaCqIOpqRsJCrQL9NK3JsD67CN5a08nF5oIL2bD6loTdHOuKw==
-  dependencies:
-    big-integer "^1.6.44"
-
 bplist-parser@0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/bplist-parser/-/bplist-parser-0.3.1.tgz#e1c90b2ca2a9f9474cc72f6862bbf3fee8341fd1"
@@ -5674,7 +5667,7 @@ bplist-parser@0.3.1:
   dependencies:
     big-integer "1.6.x"
 
-bplist-parser@^0.3.0:
+bplist-parser@^0.3.0, bplist-parser@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/bplist-parser/-/bplist-parser-0.3.2.tgz#3ac79d67ec52c4c107893e0237eb787cbacbced7"
   integrity sha512-apC2+fspHGI3mMKj+dGevkGo/tCqVB8jMb6i+OX+E29p0Iposz07fABkRIfVUPNd5A5VbuOz1bZbnmkKLYF+wQ==
